@@ -5,7 +5,6 @@ public class Kazdoevtoroe {
         Scanner in = new Scanner(System.in);
         System.out.print("введите число а:");
         int a = in.nextInt();
-        Scanner inn = new Scanner(System.in);
         System.out.print("введите число b:");
         int b = in.nextInt();
         for (int i=a;i<=b;i++){
